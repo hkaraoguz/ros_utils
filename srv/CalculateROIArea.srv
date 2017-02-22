@@ -1,0 +1,3 @@
+soma_msgs/SOMAROIObject[] rois
+---
+ros_utils/ROIArea[] areas
